@@ -1,0 +1,1 @@
+this task i do some array function like .reduce, .filter on rest countries data.
